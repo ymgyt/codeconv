@@ -1,0 +1,7 @@
+mode: set
+github.com/ymgyt/codeconv/internal/base64/converter.go:20.66,22.16 2 1
+github.com/ymgyt/codeconv/internal/base64/converter.go:25.2,26.15 2 1
+github.com/ymgyt/codeconv/internal/base64/converter.go:31.2,32.8 2 1
+github.com/ymgyt/codeconv/internal/base64/converter.go:22.16,24.3 1 0
+github.com/ymgyt/codeconv/internal/base64/converter.go:26.15,27.17 1 1
+github.com/ymgyt/codeconv/internal/base64/converter.go:27.17,29.4 1 1
